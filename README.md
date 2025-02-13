@@ -10,13 +10,13 @@ uma arte digital pré estabelecidade na plataforma figma em um website produzido
 
 <h3>Neste projeto Foram utlizados os seguintes elementos e processos: </h3>
 
-<li>Estruturas de arquivos e tags
+<li>Estruturas de arquivos e tags.
 
-<li>Classes, posicionamento e Flexbox
+<li>Classes, posicionamento e Flexbox.
 
-<li>Manipulação de variáveis
+<li>Manipulação de variáveis.
 
-<li>Header, footer + variáveis do CSS
+<li>Header, footer + variáveis do CSS.
 
-<li>Responsividade
+<li>Responsividade.
 
